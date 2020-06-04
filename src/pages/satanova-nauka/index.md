@@ -4,9 +4,10 @@ path: /satanova-nauka
 title: Satanova Nauka
 ---
 <!-- ### Shade-grown coffee -->
+
 ### Náuka Satanovej komunity 1: Baphomet vás víta
-OBRÁZOK
-Baphomet vás víta v Satanovej komunite a rukou vám ukazuje smer k niekoľkým myšlienkam:
+
+OBRÁZOK Baphomet vás víta v Satanovej komunite a rukou vám ukazuje smer k niekoľkým myšlienkam:
 OBRÁZOK
 Had je v mnohých kultúrach symbolom múdrosti a poznania. Tak je to aj pre nás satanistov. Ale kresťania z neho urobili symbol klamstiev a falošnosti. V takom prípade by však bol ich symbolom, pretože oni tieto 2 vlastnosti stelesňujú najlepšie zo všetkých!
 OBRÁZOK
@@ -20,9 +21,15 @@ Musíme navždy ochrániť verejný priestor a štátne zákony, aby do nich nez
 OBRÁZOK
 Večné peklo je náboženská psychóza, výtvor chorého mozgu, nápad nemocnej mysli. Je to idea, ktorej sa musíme zbaviť. 
 
+
+
+```
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bBYBI2awKbE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+```
+
 ### Náuka Satanove komunity 2: V znamení obráteného kríža
-Náuka Satanove komunity 2: V znamení obráteného kríža
-OBRÁZOK
+
+Náuka Satanove komunity 2: V znamení obráteného kríža OBRÁZOK
 Ako komunita stojíme v protiklade k tradičným monoteizmom a ich morálke. To však neznamená, že sme nemorálni – máme len odlišný pohľad na to, čo je skutočné dobro alebo zlo pre ľudskú spoločnosť!
 OBRÁZOK
 Chceme Vás silných a dobrých, nie slabých a skazených 
@@ -46,8 +53,8 @@ OBRÁZOK
 Kto by chcel byť (slovami Nietzscheho) odlivom tohto veľkého prílivu? 
 
 ### Náuka Satanovej komunity 3: Duchovný materializmus
-Náuka Satanovej komunity 3: Duchovný materializmus
-OBRÁZOK
+
+Náuka Satanovej komunity 3: Duchovný materializmus OBRÁZOK
 Poznajte sa osobne s praotcom filozofického materializmu, stelesneným Antikristom revolučného roku 1848, Ludwigom Feuerbachom!
 OBRÁZOK
 Chceme, aby Slovo konečne bolo učinené telom; duch hmotou. Už máme pokrk duchovného idealizmu bez reálneho základu.“
@@ -63,8 +70,7 @@ OBRÁZOK
 OBRÁZOK
 „Nenávidím taký  idealizmus, ktorý človeka vytrháva z prírody. Nehanbím sa za svoju závislosť na prírode! Otvorene doznávam, že príroda pôsobí svojimi prejavmi nie len na môj povrch, na moju šupku, moje telo, ale aj na moje jadro, na moje vnútro. A túto závislosť nechápem, ako kresťan, v rozpore s mojou bytosťou – preto tiež neočakávam spasenie od tohto rozporu. Rovnako tak aj viem, že som pominuteľná, smrteľná bytosť, že tu jedného dňa už nebudem. Ale nachádzam to veľmi prirodzeným, a práve preto som s touto myšlienkou dokonale zmierený.“
 
-OBRÁZOK
-„Len pri výnimočných pohromách musí sa jedinec obetovať celku, t.j. väčšine. Ale je naivné robiť normu z výnimočného, nenormálneho prípadu, robiť z poprenia sebe samého bezpodmienečný, univerzálny princíp a zákon.“ 
+OBRÁZOK „Len pri výnimočných pohromách musí sa jedinec obetovať celku, t.j. väčšine. Ale je naivné robiť normu z výnimočného, nenormálneho prípadu, robiť z poprenia sebe samého bezpodmienečný, univerzálny princíp a zákon.“ 
 OBRÁZOK
 „Pocit závislosti nie je nič iné než nepriame, či obrátené, negatívne sebavedomie. Som predsa závislý na tých bytostiach, ktoré potrebujem pre svoju existenciu, bez nich nedokážem to, čo by som chcel dokázať, ktoré majú moc poskytnúť mi to, čo si prajem, čo potrebujem, ale k čomu sám nemám moc, aby som si to opatril. Bez potreby nie je ani pocit závislosti.“ 
 OBRÁZOK
@@ -72,8 +78,8 @@ OBRÁZOK
 Potreba je teda sluhom aj pánom svojho predmetu, pokorná aj nadutá a svojvoľná. Potrebuje predmet, je bez neho nešťastná; v tom tkvie jej poddanstvo, oddanosť, nezištnosť. Ale potrebuje ho, aby se na ňom ukájala, aby ho užívala, aby ho používala k svojmu prospechu; v tom tkvie jej panovačnosť či egoizmus.“ 
 
 ### Náuka Satanovej komunity 4: Luciferove učenie
-Náuka Satanovej komunity 4: Luciferove učenie
-OBRÁZOK
+
+Náuka Satanovej komunity 4: Luciferove učenie OBRÁZOK
 Luciferova náuka je náukou osvietenia. Lucifer je symbolom svetla a stojí v protiklade k stereotypu „temných satanistov“. Predstavuje vyššiu úroveň Baphometovho učenia a ukazuje prstom smerom k hviezdnemu nebu, kde na nás čakajú nové obzory. 
 OBRÁZOK
 Tiež vám povaha väčšiny bohov príde extrémne narcistická? Stále len: „Ja som jediný Boh“ alebo „Uctievajte ma pozemšťania!“. Kde sú vety ako: „Rozdelím sa s vami o svoje božstvo, priatelia“?
@@ -110,10 +116,9 @@ OBRÁZOK
 ZERO TOLERANCE ZONE: Za prejavy diskriminácie budete zablokovaní a vylúčení: https://satanblog.webnode.cz/l/pravidla-satanovy-komunity/
  Nepodporujme stereotypy o satanistoch, pretože ruku na srdce – za niektoré predsudky si môžeme sami svojim jednaním! Niektoré satanistické skupiny vyzerajú ako načierno nafarbené kresťanské sekty! Bubáky v kapucniach ani vymyslené magické tituly nepodporujeme. Aby sa vedúci satanista nechával nazývať: „Páter Máter Pikachu“ alebo inými absurdnými menami je úplne smiešne! 
 
-
 ### Náuka Satanovej komunity 5: Oheň je náš Otec
-Náuka Satanovej komunity 5: Oheň je náš Otec
-OBRÁZOK
+
+Náuka Satanovej komunity 5: Oheň je náš Otec OBRÁZOK
 Oheň je naším Otcom, zatiaľ čo voda je našou Matkou. Sme deti dvoch protikladných živlov, ktoré sa v nás dokonale snúbia. Premenlivý a bojovný oheň, rovnako ako mohutná a sústredená voda. Každý z týchto elementov dal zrod sérii motivačných citátov, zameraných na tieto dve stránky satanizmu. Každý satanista v sebe nesie oheň aj vodu, stačí to objaviť. 
 OBRÁZOK
 Keby nebo bolo skutočné, prešukáme sa ku spáse! SEX je cestou k večnému životu. ORGASMUS je ochutnávka večnosti. 
